@@ -1,0 +1,23 @@
+{
+  "name": "eaisoft",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.4",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.2",
+    "emailjs-com": "^3.2.0",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.4",
+    "next": "14.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.11.0"
+  }
+}
