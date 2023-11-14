@@ -42,7 +42,7 @@ const Service = () => {
         <div className="container-fluid">
           <div className="target-items row justify-content-center">
             {service.map((item) => (
-              <div className="col-12 col-lg-4 card-items" key={item.id} data-aos="fade-left">
+              <div className="col-12 col-lg-4 card-items" key={item.id} data-aos="fade-left" >
                 <Image
                   className="card-image"
                   src={item.image}

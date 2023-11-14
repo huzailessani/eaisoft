@@ -69,7 +69,7 @@ const Portfolio = () => {
       <div className="container mb-5 d-flex justify-content-center align-items-center events-wrapper main-section">
         <div className="row us-card">
           {portfolio.map((item) => (
-            <div className="col-md-4 p-2" key={item.id} data-aos="fade-right">
+            <div className="col-md-4 p-2" key={item.id} data-aos="fade-right" >
               <article className="event-container">
                 <Image
                   width={400}
