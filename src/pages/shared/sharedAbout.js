@@ -96,7 +96,7 @@ const About = () => {
     <h2 className="headings ">About us</h2>
   </div>
 
-    <section className="main-section">
+    <section className="main-section p-5">
       <div className="mx-auto p-5 container vm-bg bg-dark text-white row mt-5 pt-5 pb-5 " data-aos="fade-down">
         <div className="col-md-6 p-2" data-aos="fade-down">
           <div className="card-body">
